@@ -1,0 +1,2 @@
+FAKE cat, https://th.bing.com/th/id/OIP.YoF9RZTUoChn60ZjBfptewHaE8?rs=1&pid=ImgDetMain
+REAL cat, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Domestic_cat_cropped.jpg/235px-Domestic_cat_cropped.jpg
